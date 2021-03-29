@@ -1,0 +1,68 @@
+/* .home {
+  margin: 100px;
+}*/
+.overlay h2 {
+  text-align: center;
+  color: rgb(174, 238, 233);
+  margin-top: 15%;
+  margin-left: 1%;
+}
+.icons {
+  margin-top: 10%;
+  align-items: center;
+  padding-left: 47%;
+}
+.experi {
+  text-decoration: none;
+  font-weight: bold;
+}
+.me {
+  border: 8px double cadetblue;
+}
+.picturetext {
+  height: 450px;
+  margin-top: -20px;
+  background-color: darkseagreen;
+}
+.kavya {
+  height: 300px;
+  width: 300px;
+  border-radius: 10% 50%;
+  float: right;
+  padding-top: 90px;
+}
+.text {
+  font-size: 20px;
+  padding: 10% 10% 5% 10%;
+}
+.eborder {
+  border: 8px double rgb(226, 162, 43);
+  border-radius: 10px;
+  background-color: lightgray;
+}
+.exp {
+  font-family: serif;
+  margin: 40px;
+}
+
+.duration {
+  float: right;
+  font-weight: lighter;
+  font-size: medium;
+}
+
+.desc {
+  font-size: large;
+}
+
+.me button {
+  height: 35px;
+  width: 100px;
+  margin-left: 30%;
+  margin-top: -35%;
+  border-radius: 5px;
+  background-color: cadetblue;
+  border: rgb(226, 162, 43);
+  font-size: large;
+  font-weight: bold;
+}

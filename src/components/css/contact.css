@@ -1,0 +1,60 @@
+.contact {
+  border: 8px double cadetblue;
+  display: flex;
+  flex-direction: row;
+  background-color: darkseagreen;
+  padding: 6% 10% 10% 10%;
+}
+.Address {
+  display: grid;
+  grid-template-rows: auto auto;
+  width: 50%;
+  /* margin-top: 5%; */
+  margin-left: 20%;
+}
+.locicon {
+  margin-left: 10%;
+  height: 40px;
+  width: 40px;
+}
+.adtext {
+  /* margin-top: -30%; */
+  font-size: 20px;
+  /* margin-left: -20px; */
+}
+.phone {
+  width: 50%;
+  margin-top: 3%;
+  margin-right: 20%;
+}
+.ph {
+  display: grid;
+  grid-template-columns: auto auto;
+}
+.num {
+  margin-left: -40%;
+  font-size: 20px;
+}
+.email {
+  display: grid;
+  grid-template-columns: auto auto;
+  margin-top: 5%;
+}
+.em {
+  padding-top: 2px;
+  padding-left: -2px;
+  font-size: 20px;
+}
+.footer {
+  background-color: #1c4966;
+  text-decoration: none;
+  text-align: center;
+  color: aliceblue;
+  padding: 20px;
+}
+
+.foolink {
+  color: goldenrod;
+  text-decoration: none;
+  font-weight: 700;
+}
