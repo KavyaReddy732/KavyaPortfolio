@@ -66,3 +66,33 @@
   font-size: large;
   font-weight: bold;
 }
+
+@media (max-width: 400px) {
+  .overlay h2 {
+    text-align: center;
+    color: rgb(174, 238, 233);
+    margin-top: 60%;
+    margin-left: 1%;
+  }
+  .icons {
+    margin-top: 30%;
+    align-items: center;
+    padding-left: 35%;
+  }
+  .me {
+    border: 8px double cadetblue;
+  }
+  .picturetext {
+    height: 450px;
+    background-color: darkseagreen;
+  }
+  .kavya {
+    margin-top: -60px;
+    height: 150px;
+    width: 150px;
+    margin-right: 90px;
+  }
+  .text {
+    padding-top: 200px;
+  }
+}

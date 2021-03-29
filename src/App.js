@@ -12,13 +12,15 @@ function App() {
   return (
   <div className="App">
     <Router>
-      <div className="bg">
-        <nav className="nav_bar">
-          <Link smooth to="#Home" className="Navi Name">Kavya Konuganti</Link>
-          <Link smooth to="#Contact" className="Navi Right About">Contact</Link>
-          <Link smooth to="#Experience" className="Navi Right Experience">Experience</Link>
-          <Link smooth to="#About" className="Navi Right Contact" >About</Link>
-        </nav>
+        <div className="bg">
+          <nav className="nav_bar">
+            <Link smooth to="#Home" className="Navi Name">Kavya Konuganti</Link>
+            <span className="right">
+          <Link smooth to="#Contact" className="Navi About">Contact</Link>
+          <Link smooth to="#Experience" className="Navi Experience">Experience</Link>
+              <Link smooth to="#About" className="Navi Contact" >About</Link>
+              </span>
+          </nav>
         <Home />
       </div>
         <About />
