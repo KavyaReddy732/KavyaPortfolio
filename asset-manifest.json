@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/KavyaPortfolio/static/css/main.b537157e.chunk.css",
+    "main.js": "/KavyaPortfolio/static/js/main.6cb03c5d.chunk.js",
+    "main.js.map": "/KavyaPortfolio/static/js/main.6cb03c5d.chunk.js.map",
+    "runtime-main.js": "/KavyaPortfolio/static/js/runtime-main.3caea90e.js",
+    "runtime-main.js.map": "/KavyaPortfolio/static/js/runtime-main.3caea90e.js.map",
+    "static/js/2.15ac42aa.chunk.js": "/KavyaPortfolio/static/js/2.15ac42aa.chunk.js",
+    "static/js/2.15ac42aa.chunk.js.map": "/KavyaPortfolio/static/js/2.15ac42aa.chunk.js.map",
+    "static/js/3.e6af25c5.chunk.js": "/KavyaPortfolio/static/js/3.e6af25c5.chunk.js",
+    "static/js/3.e6af25c5.chunk.js.map": "/KavyaPortfolio/static/js/3.e6af25c5.chunk.js.map",
+    "index.html": "/KavyaPortfolio/index.html",
+    "static/css/main.b537157e.chunk.css.map": "/KavyaPortfolio/static/css/main.b537157e.chunk.css.map",
+    "static/js/2.15ac42aa.chunk.js.LICENSE.txt": "/KavyaPortfolio/static/js/2.15ac42aa.chunk.js.LICENSE.txt",
+    "static/media/Kavya Resume.65a2a82e.pdf": "/KavyaPortfolio/static/media/Kavya Resume.65a2a82e.pdf",
+    "static/media/App.css": "/KavyaPortfolio/static/media/image.8b718c8f.png",
+    "static/media/resumepicture.167ecaa5.jpg": "/KavyaPortfolio/static/media/resumepicture.167ecaa5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3caea90e.js",
+    "static/js/2.15ac42aa.chunk.js",
+    "static/css/main.b537157e.chunk.css",
+    "static/js/main.6cb03c5d.chunk.js"
+  ]
+}
