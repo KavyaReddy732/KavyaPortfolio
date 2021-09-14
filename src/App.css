@@ -1,53 +1,77 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@import url('https://fonts.googleapis.com/css?family=Oxygen');
 .App {
   text-decoration: none;
 }
-#bg {
-  height: 100%;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
+.headtext{
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
 }
-.bg img {
-  position: absolute; 
-  top: 0; 
-  left: 0; 
-  right: 0; 
-  bottom: 0; 
-  margin: auto; 
-  min-width: 50%;
-  min-height: 50%;
+.circle{
+  height: 25px;
+  width: 25px;
+  background-color: #03C3FF;
+  border-radius: 50%;
+  display: inline-block;
+  margin-left: 1rem;
+  align-self: center;
 }
-.bg .text {
-  position: relative;
-  padding: 1% 0 0 3%;
-  color: white;
-  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+
+.text {
+  color: rgb(22, 21, 21);
+  font-family:  "Open Sans", sans-serif;
+  margin-left: -0.6rem;
 }
-.bg .text2{
-   position: relative;
-  text-align: center;
-  color: rgb(255, 255, 255);
-  padding-top: 12%;
-  font-size: x-large;
+.text2{
+  color:black;
+  align-self: center;
+  padding-top: 0.7rem;
+  font-family:  "Open Sans", sans-serif;
 }
-.bg button{
-  position: absolute;
+.main{
+  display: flex;
+  flex-direction: row;
+  gap:3rem;
+  margin: 4rem;
+  padding: 3rem;
+}
+.intro{
+  align-self: center;
+  font-family: "Open Sans", sans-serif;
+}
+.kavya{
+  height: 20rem;
+  width: 20rem;
+}
+
+.hello{
+  font-family: 'Oxygen';
+  font-size: 4rem;
+}
+.button{
+  /* position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
-  background-color: rgb(9, 204, 238);
-  color: white;
+  background-color: rgb(9, 204, 238); */
+  color: black;
   font-size: 16px;
+  font-weight: bold;
   width: 7rem;
-  padding: 12px 24px;
+  height: 7rem;
   border: none;
   cursor: pointer;
-  border-radius: 5px;
+  border-radius: 50%;
   text-align: center;
+  background-color: #03C3FF;
 }
-.bg button:hover {
-  background-color: black;
+.footerend{
+  text-align: center;
+  border-top: 1px solid black;
+  margin: 0rem 2rem 0rem 2rem;
+  font-size: small;
 }
 
 /* .nav_bar {

@@ -17,3 +17,9 @@ export default function About() {
         </div>
     )
 }
+// import { BrowserRouter as Router } from "react-router-dom";
+// import { HashLink as Link } from 'react-router-hash-link';
+// import About from "./components/About";
+// import Home from "./components/Home";
+// import Experience from './components/Experience';
+// import Contact from './components/Contact';
