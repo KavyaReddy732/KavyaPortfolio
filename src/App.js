@@ -1,8 +1,7 @@
 import React from 'react';
-import resume from './images/KavyaResume.pdf';
+import resume from './images/Kavya Resume.pdf';
 import kavya from './images/kavya.png'
 import './App.css';
-import Footer from './components/Footer';
 
 function App() {
   return (
